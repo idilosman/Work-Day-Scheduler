@@ -14,4 +14,4 @@ GIVEN I am using a daily planner to create a schedule WHEN I open the planner TH
 
  https://github.com/idilosman/Work-Day-Scheduler
 
-
+<img src="./images/Screenshot 2022-05-24 at 21.12.33.png"/>
